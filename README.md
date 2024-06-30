@@ -6,8 +6,6 @@
 
 ### Prerequisites
 
-
-
 ```
 Give examples
 ```
@@ -16,33 +14,29 @@ Give examples
 
 
 ```
-Give the example
+terraform for windows
+linux
+macos
+vscode
 ```
 
-## Running the tests
-
-
-### Break down into end to end tests
-
-
-
-```
-Give an example
-```
-
-### And coding style tests
+### Useful commands
 
 
 ```
-Give an example
+terraform init
+terraform validate
+terraform fmt
+terraform plan
+terraform apply
+terraform destry
 ```
-
-## Deployment
-
-
-## Versioning
-
 
 ## Authors
 
 * **Harshavardhan Kalsait**
+  
+## Versioning
+
+- Added 01-08 ----- v1
+- Added 09-15 ----- v2
